@@ -81,7 +81,6 @@ public class PostagemController {
         }
         
         	return ResponseEntity.status(HttpStatus.BAD_REQUEST).build();
-        
            
     }
 
